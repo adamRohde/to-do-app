@@ -7,9 +7,8 @@ This was one of my first projects learning Web Developement. The way I handled l
 
 
 Link to app
-  - https://adamrohde.github.io/to-do-app/
-
-
+  - [Click here to try the app](https://adamrohde.github.io/to-do-app/)
+  
 
 ### Image
 
